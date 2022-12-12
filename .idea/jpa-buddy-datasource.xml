@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JpbDataSourceConfig">
+    <data-sources>
+      <data-source id="74a57d7e-c444-443e-96d6-d0342b321bf3" name="Medical Clinic Demo" url="jdbc:postgresql://localhost/Medical Clinic Demo" driverClass="org.postgresql.Driver" />
+    </data-sources>
+  </component>
+</project>
